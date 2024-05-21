@@ -1,11 +1,10 @@
-package com.nt;
+package com.vehicle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import com.nt.sbeans.Vehicle;
+import com.vehicle.sbeans.Vehicle;
 
 @SpringBootApplication
 public class BootProj02DependencyInjectionStrategyDpApplication {
